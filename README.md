@@ -1,6 +1,6 @@
-# firstapp
+# Gif search app
 
-A new Flutter project.
+![Project GIF](lib/assets/project.gif)
 
 ## Getting Started
 
